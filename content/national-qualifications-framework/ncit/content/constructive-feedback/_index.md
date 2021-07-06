@@ -123,7 +123,7 @@ For example:
 
 *You are really quick to complete tasks and good at meeting deadlines. But the number of typing errors you are currently making is higher than expected.*
 
-Giving feedback constructively benefits everyone. You, as the project manager or supervisor, use the on-going exchange of information as a way of getting to know your people and providing them with valuable guidance in their work. The employee, manager, supervisor, or peer receives data that makes that makes their job easier. The organization gains in improved productivity of its workforce.
+Giving feedback constructively benefits everyone. You, as the project manager or supervisor, use the on-going exchange of information as a way of getting to know your people and providing them with valuable guidance in their work. The employee, manager, supervisor, or peer receives data that makes their job easier. The organization gains in improved productivity of its workforce.
 
 ## 2. Six steps for giving constructive feedback
 
@@ -201,7 +201,7 @@ For example:
 
 *It’s great that everyone feels really comfortable with each other but I think in stressful situations it would be nice if we could all find ways to communicate with each other respectfully. I know you will find a way in the future.*
 
-By summarizing, you can avoid misunderstandings and check to make sure that your communication is clear. This summary is an opportunity to show your support for the other person—a way to conclude even an negative feedback situation on a positive note.
+By summarizing, you can avoid misunderstandings and check to make sure that your communication is clear. This summary is an opportunity to show your support for the other person—a way to conclude even a negative feedback situation on a positive note.
 
 For example:
 
